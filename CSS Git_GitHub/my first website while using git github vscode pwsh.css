@@ -1,0 +1,51 @@
+*{
+    background-image:  url("../Images/patrick-tomasso-5hvn-2WW6rY-unsplash.jpg");
+    opacity: 0.7;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Courier New', Courier, monospace, Verdana, sans-serif, Geneva;
+    text-decoration-line: underline;
+}
+p{
+    font-family: Geneva, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Courier New', Courier, monospace, Verdana, sans-serif;
+}
+.blogs{
+            background-color: rgb(141, 241, 243);
+            /* width: 50%; */
+            /* height: 500px; */
+            /* border-radius: single value > all */
+            /* border-radius: double value > (top-left,bottom-rigt) (bottom-left,top-right)*/
+            /* border-radius: triple value > top-left (bottom-right,top-right) bottom-left*/
+            /* border-radius: quadruple value > top-left top-right bottom-right bottom-left */
+            border-radius: 5px;
+            border: 3px solid rgb(250, 127, 193);
+            /* border-top: 3px solid deeppink; */
+            /* border-right: 3px solid deeppink; */
+            /* border-bottom: 3px solid deeppink; */
+            /* border-left: 3px solid deeppink; */
+            text-align: justify;
+            /* margin: single value > all sides are marginalized by same amount*/
+            margin: 50px;
+            /* margin: double value > 1TB 2RL (serial of getting marginalized)*/
+            /* margin: 10px 30px; */
+            /* margin: triple value > 1T 2RL 3B (serial of getting marginalized)*/
+            /* margin: 10px 30px 50px; */
+            /* margin: quadruple value > 1T 2R 3B 4L (serial of getting marginalized)*/
+            /* margin: 10px 30px 50px 70px; */
+            /* padding: single value > all sides are paddinged by same amount*/
+            padding: 20px;
+            /* padding: double value > 1TB 2RL (serial of getting paddinged)*/
+            /* padding: 10px 30px; */
+            /* padding: triple value > 1T 2RL 3B (serial of getting paddinged)*/
+            /* padding: 10px 30px 50px; */
+            /* padding: quadruple value > 1T 2R 3B 4L (serial of getting paddinged)*/
+            /* padding: 10px 30px 50px 70px; */
+            /* box-shadow: x-offset y-offdet blur spread color (how it,s going to disperse & diffused respectively.)  */
+            /* box-shadow: 10px 10px 20px 25px palevioletred; */
+            box-shadow: 10px 10px 25px palevioletred;
+}
+/* .display_visibility{
+    display: none;
+    visibility: hidden;
+} */
